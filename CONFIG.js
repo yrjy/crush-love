@@ -1,10 +1,10 @@
 const CONFIGDATA = {
   titleHeader: "鞥鞥",
   descriptionHeader:
-    "If you log out and don't reply, it means you AGREE ^^",
+    "如果您退出後不回复，則表示您同意 ^^",
   buttonYes: "yes",
   buttonNo: "no",
-  titleModar: "谢谢你的同意",
+  titleModar: "謝謝你的同意",
   descriptionModar:
-    'Tớ biết là cậu sẽ đồng ý làm người yêu tớ mà ^^ </br> Cám ơn cậu đã đồng ý để cho tớ được che chở và bảo vệ cậu.Đối với tớ, cậu mãi là cô bé :)) </br> "Thích cậu nhiều đến mấy, cậu sẽ hiểu thôi. </br>  Tớ thích cậu nhiều đến mấy, cậu sẽ hiểu thôi "',
+    '我知道你會同意 ^^ </br> 謝謝你同意讓我照顧你，保護你。對我來說，你永遠是個小女孩',
 };
